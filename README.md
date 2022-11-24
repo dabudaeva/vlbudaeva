@@ -14,18 +14,22 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://simpleicons.org/icons/r.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/r.svg" alt="R" width="40" height="40"/> </a>
-  <a href="https://simpleicons.org/icons/python.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/python.svg" alt="R" width="40" height="40"/> </a>
-  <a href="https://simpleicons.org/icons/gnubash.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/gnubash.svg" alt="R" width="40" height="40"/> </a>
-  <a href="https://simpleicons.org/icons/linux.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/linux.svg" alt="R" width="40" height="40"/> </a>
-  <a href="https://simpleicons.org/icons/git.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/git.svg" alt="R" width="40" height="40"/> </a>
-  <a href="https://simpleicons.org/icons/html5.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/html5.svg" alt="R" width="40" height="40"/> </a>
-  <a href="https://simpleicons.org/icons/css3.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/css3.svg" alt="R" width="40" height="40"/> </a>
+  <a href="https://simpleicons.org/icons/python.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://simpleicons.org/icons/gnubash.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/gnubash.svg" alt="Bash" width="40" height="40"/> </a>
+  <a href="https://simpleicons.org/icons/linux.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/linux.svg" alt="Linux" width="40" height="40"/> </a>
+  <a href="https://simpleicons.org/icons/git.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/git.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://simpleicons.org/icons/html5.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/html5.svg" alt="Html" width="40" height="40"/> </a>
+  <a href="https://simpleicons.org/icons/css3.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/css3.svg" alt="Css" width="40" height="40"/> </a>
 
+  <a href="https://simpleicons.org/icons/pandas.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/pandas.svg" alt="Pandas" width="40" height="40"/> </a>
+  <a href="https://simpleicons.org/icons/numpy.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/numpy.svg" alt="Numpy" width="40" height="40"/> </a>
+  <a href="https://simpleicons.org/icons/scipy.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/scipy.svg" alt="SciPy" width="40" height="40"/> </a>
+  <a href="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text-dark.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text-dark.svg" alt="Statsmodels" width="40" height="40"/> </a>
   
+  <a href="https://simpleicons.org/icons/scikitlearn.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/scikitlearn.svg" alt="Scikit-learn" width="40" height="40"/> </a>
   
- 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+https://simpleicons.org/icons/scikitlearn.svg
+  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
