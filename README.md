@@ -17,6 +17,7 @@
   <a href="https://simpleicons.org/icons/python.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/python.svg" alt="R" width="40" height="40"/> </a>
   <a href="https://simpleicons.org/icons/gnubash.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/gnubash.svg" alt="R" width="40" height="40"/> </a>
   <a href="https://simpleicons.org/icons/linux.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/linux.svg" alt="R" width="40" height="40"/> </a>
+  <a href="https://simpleicons.org/icons/git.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/git.svg" alt="R" width="40" height="40"/> </a>
   
 
   
