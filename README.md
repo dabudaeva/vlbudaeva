@@ -25,10 +25,14 @@
   <a href="https://simpleicons.org/icons/numpy.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/numpy.svg" alt="Numpy" width="40" height="40"/> </a>
   <a href="https://simpleicons.org/icons/scipy.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/scipy.svg" alt="SciPy" width="40" height="40"/> </a>
   <a href="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text-dark.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text-dark.svg" alt="Statsmodels" width="40" height="40"/> </a>
-  
   <a href="https://simpleicons.org/icons/scikitlearn.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/scikitlearn.svg" alt="Scikit-learn" width="40" height="40"/> </a>
+  <a href="https://simpleicons.org/icons/pytorch.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/pytorch.svg" alt="PyTorch" width="40" height="40"/> </a>
+  <a href="https://simpleicons.org/icons/tensorflow.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/> </a>
+  <a href="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" target="_blank" rel="noreferrer">  <img hspace="5" src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" alt="Optuna" width="40" height="40" style="-webkit-filter: grayscale(100%); filter: grayscale(100%);"/> </a>
   
-https://simpleicons.org/icons/scikitlearn.svg
+
+  
+
   
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
