@@ -36,11 +36,11 @@
 
 <details>
 	<summary>Github Stats</summary>
-	<a href="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true">
+	<a href="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true&hide_border=true&theme=graywhite">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true&hide_border=true&theme=graywhite">
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact&hide_border=true&theme=graywhite">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact&hide_border=true&theme=graywhite">
   </a>
 </details>
 
