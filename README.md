@@ -30,7 +30,7 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact"/></a>
 </p>
 
-<div align="left" style="margin: 20px 0">
+<div align="center">
    <a href="https://github.com/vlbudaeva/github-profile-views-counter">
        <img width="100px" src="https://komarev.com/ghpvc/?username=vlbudaeva&color=DE002D">
    </a>
