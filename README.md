@@ -23,14 +23,14 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<p align='center'>
+<p align='left'>
    <a href="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/vlbudaeva/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact"/></a>
 </p>
 
-<div align="center">
+<div align="left">
    <a href="https://github.com/vlbudaeva/github-profile-views-counter">
        <img width="100px" src="https://komarev.com/ghpvc/?username=vlbudaeva&color=DE002D">
    </a>
