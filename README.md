@@ -35,7 +35,7 @@
 </p>
 
 <div align="left">
-   <a href="https://github.com/vlbudaeva/github-profile-views-counter">
+   <a href="https://komarev.com/ghpvc/?username=vlbudaeva&color=DE002D">
        <img width="100px" src="https://komarev.com/ghpvc/?username=vlbudaeva&color=DE002D">
    </a>
 </div>
