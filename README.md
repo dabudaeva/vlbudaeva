@@ -32,7 +32,6 @@
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://aeiljuispo.cloudimg.io/v7/https://s3.amazonaws.com/moonup/production/uploads/1611174457784-5fa9ff3ea13e063b8b2b60cb.png?w=200&h=200&f=face" alt="Plotly" width="40" height="40"/> </a>
-  
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/flask.svg" alt="flask" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/docker.svg" alt="docker" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/streamlit.svg" alt="streamlit" width="40" height="40"/> </a>
