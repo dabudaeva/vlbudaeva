@@ -33,6 +33,7 @@
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact"></a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact)](https://github.com/vlbudaeva/github-readme-stats)
 
 <div align="left">
    <a href="https://komarev.com/ghpvc/?username=vlbudaeva&color=DE002D">
