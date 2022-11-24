@@ -38,14 +38,18 @@
 
 </p>
 
-<p align='left'>
-   <a href="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true">
+----
+
+<details>
+	<summary>Github Stats</summary>
+	<a href="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true">
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact">
   </a>
-</p>
+</details>
+
 
 <div align="left">
    <a href="https://komarev.com/ghpvc/?username=vlbudaeva&color=DE002D">
