@@ -8,7 +8,7 @@
 <a href="https://t.me/avbudaeva" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
 </p>
 <p align='left'>
-   📫<a href='mailto:vl.budaeva@gmail.com'>vl.budaeva@gmail.com</a>
+   📫: <a href='mailto:vl.budaeva@gmail.com'>vl.budaeva@gmail.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
