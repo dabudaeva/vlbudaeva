@@ -22,3 +22,10 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
+
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact"/></a>
+</p>
