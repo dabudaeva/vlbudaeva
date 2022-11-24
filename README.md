@@ -30,7 +30,7 @@
 <p align='left'>
    <a href="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true"></a>
-   <a href="https://github.com/vlbudaeva/github-readme-stats">
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact"></a>
 </p>
 
