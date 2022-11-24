@@ -7,6 +7,9 @@
 <a href="https://www.linkedin.com/in/aleksandra-budaeva-845096110" target="blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href="https://t.me/avbudaeva" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
 </p>
+<p align='center'>
+   📫<a href='mailto:vl.budaeva@gmail.com'>vl.budaeva@gmail.com</a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
