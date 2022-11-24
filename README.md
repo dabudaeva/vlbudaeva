@@ -33,7 +33,23 @@
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact"></a>
 </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact)](https://github.com/vlbudaeva/github-readme-stats)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact" />
+</picture>
+
+
+
 
 <div align="left">
    <a href="https://komarev.com/ghpvc/?username=vlbudaeva&color=DE002D">
