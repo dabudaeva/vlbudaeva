@@ -12,7 +12,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
+  <style>
+    img {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    }
+  </style>
   <a href="https://simpleicons.org/icons/r.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/r.svg" alt="R" width="40" height="40"/> </a>
   <a href="https://simpleicons.org/icons/python.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://simpleicons.org/icons/gnubash.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/gnubash.svg" alt="Bash" width="40" height="40"/> </a>
@@ -28,7 +34,7 @@
   <a href="https://simpleicons.org/icons/scikitlearn.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/scikitlearn.svg" alt="Scikit-learn" width="40" height="40"/> </a>
   <a href="https://simpleicons.org/icons/pytorch.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/pytorch.svg" alt="PyTorch" width="40" height="40"/> </a>
   <a href="https://simpleicons.org/icons/tensorflow.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/> </a>
-  <a href="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" target="_blank" rel="noreferrer">  <img hspace="5" src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" alt="Optuna" width="40" height="40" style="filter:grayscale(100%);"/> </a>
+  <a href="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" target="_blank" rel="noreferrer">  <img hspace="5" src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" alt="Optuna" width="40" height="40"/> </a>
 
 
   
@@ -36,11 +42,8 @@
   
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+
+   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 </p>
 
 <p align='left'>
