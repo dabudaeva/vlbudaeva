@@ -28,10 +28,10 @@
 </p>
 
 <p align='left'>
-   <a href="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true&count_private=true"/></a>
+   <a href="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true"></a>
    <a href="https://github.com/vlbudaeva/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact"/></a>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact"></a>
 </p>
 
 <div align="left">
