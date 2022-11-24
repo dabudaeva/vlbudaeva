@@ -28,8 +28,7 @@
   <a href="https://simpleicons.org/icons/scikitlearn.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/scikitlearn.svg" alt="Scikit-learn" width="40" height="40"/> </a>
   <a href="https://simpleicons.org/icons/pytorch.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/pytorch.svg" alt="PyTorch" width="40" height="40"/> </a>
   <a href="https://simpleicons.org/icons/tensorflow.svg" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/> </a>
-  <a href="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" target="_blank" rel="noreferrer">  <img style="filter: grayscale(100%); -webkit-filter: grayscale(100%);" hspace="5" src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" alt="Optuna" width="40" height="40"/> </a>
-
+  
 
   
 
