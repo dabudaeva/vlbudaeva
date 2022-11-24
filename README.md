@@ -24,14 +24,14 @@
 </p>
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
+   <a href="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=vlbudaeva&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats">
+   <a href="https://github.com/vlbudaeva/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbudaeva&layout=compact"/></a>
 </p>
 
 <div align="left" style="margin: 20px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
+   <a href="https://github.com/vlbudaeva/github-profile-views-counter">
        <img width="100px" src="https://komarev.com/ghpvc/?username=vlbudaeva&color=DE002D">
    </a>
 </div>
