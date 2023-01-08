@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif"/>
+  <img src="https://media4.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
