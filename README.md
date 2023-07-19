@@ -2,6 +2,8 @@
   <img src="https://media4.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif"/>
 </div>
 
+<a href="https://rpubs.com/budaevaa" target="blank">My publications on RPubs</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aleksandra-budaeva-845096110" target="blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> </a>
