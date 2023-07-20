@@ -2,11 +2,10 @@
   <img src="https://thumbs.gfycat.com/PepperyGrizzledClownanemonefish-max-1mb.gif"/>
 </div>
 
-<p align="center">
-Hi 👋, My name is Aleksandra 🧑‍💻
+<h2 align="center">Hi 👋, My name is Aleksandra 🧑‍💻</h2>
 
-I'm passionate Data Analyst
-</p>
+<h4 align="center">I'm passionate Data Analyst</h4>
+
 
 <a href="https://rpubs.com/budaevaa" target="blank">My publications on RPubs</a>
 
