@@ -6,8 +6,6 @@
 
 <h4 align="center">I'm passionate Data Analyst</h4>
 
-- 
-
 
 <a href="https://rpubs.com/budaevaa" target="blank">My publications on RPubs</a>
 
