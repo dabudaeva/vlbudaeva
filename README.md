@@ -2,6 +2,9 @@
   <img src="https://thumbs.gfycat.com/PepperyGrizzledClownanemonefish-max-1mb.gif"/>
 </div>
 
+Hi 👋, I'm Sasha 🧑‍💻
+A passionate Data Analyst
+
 <a href="https://rpubs.com/budaevaa" target="blank">My publications on RPubs</a>
 
 <h3 align="left">Connect with me:</h3>
