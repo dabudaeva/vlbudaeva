@@ -6,19 +6,21 @@
 
 <h4 align="center">I'm passionate Data Analyst</h4>
 
+- 
+
 
 <a href="https://rpubs.com/budaevaa" target="blank">My publications on RPubs</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aleksandra-budaeva-845096110" target="blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlAKSdnIiDMWldqteparC6hgwASKSraQXPPPRA3eukUdQBQffbgX-s8DeA7XHf5Ozx1Q&usqp=CAU"> </a>
 <a href="https://t.me/avbudaeva" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
 </p>
 <p align='left'>
    📫: <a href='mailto:vl.budaeva@gmail.com'>vl.budaeva@gmail.com</a>
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/r.svg" alt="R" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"/> </a>
