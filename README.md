@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif"/>
+  <img src="https://thumbs.gfycat.com/PepperyGrizzledClownanemonefish-max-1mb.gif"/>
 </div>
 
 <a href="https://rpubs.com/budaevaa" target="blank">My publications on RPubs</a>
