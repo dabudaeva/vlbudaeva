@@ -2,8 +2,11 @@
   <img src="https://thumbs.gfycat.com/PepperyGrizzledClownanemonefish-max-1mb.gif"/>
 </div>
 
-Hi 👋, I'm Sasha 🧑‍💻
-A passionate Data Analyst
+<p align="center">
+Hi 👋, My name is Aleksandra 🧑‍💻
+
+I'm passionate Data Analyst
+</p>
 
 <a href="https://rpubs.com/budaevaa" target="blank">My publications on RPubs</a>
 
