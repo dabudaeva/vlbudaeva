@@ -30,8 +30,6 @@
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/css3.svg" alt="Css" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/flask.svg" alt="flask" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/docker.svg" alt="docker" width="40" height="40"/> </a>
-
-  
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/streamlit.svg" alt="streamlit" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/pandas.svg" alt="Pandas" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/numpy.svg" alt="Numpy" width="40" height="40"/> </a>
