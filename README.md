@@ -22,6 +22,7 @@
 <p align="left">
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/r.svg" alt="R" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"/> </a>
+    <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/mysql.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/gnubash.svg" alt="Bash" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/linux.svg" alt="Linux" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer">  <img hspace="5" src="https://simpleicons.org/icons/git.svg" alt="Git" width="40" height="40"/> </a>
