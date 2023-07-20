@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://thumbs.gfycat.com/PepperyGrizzledClownanemonefish-max-1mb.gif"/>
+  <img src="https://mcskill.net/mcforum/uploads/monthly_2020_03/image.gif.cb3ac8ccd65592cb078afff6f4e9d163.gif.6df372cc7f40e3c2d805840bfdbf32da.gif"/>
 </div>
 
 <h2 align="center">Hi 👋, My name is Aleksandra 🧑‍💻</h2>
